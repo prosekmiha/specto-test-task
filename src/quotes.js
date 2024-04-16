@@ -1,0 +1,6 @@
+export const quotes = ["The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software.",
+            "In the late 1970s, this excerpt found new life through its use in the burgeoning field of photocopy art, capturing the imagination of creatives. It gained another round of acclaim in the early 2000s, as web developers began using it as a placeholder in website templates.",
+            "During the early 1980s, the text became a favorite among graphic designers for typesetting in analog layout demonstrations. Its appeal was rekindled in the late 2000s when it became a go-to sample for testing digital fonts and layout software.",
+            "The passage experienced a revival in the mid-1980s, as it was prominently featured in academic textbooks on design and typography. This resurgence was mirrored in the mid-2010s, with the advent of mobile app development platforms utilizing it for demo content.",
+            "In the 1990s, the excerpt was rediscovered by the nascent zine culture, serving as a quirky placeholder in DIY publications. It found relevance again in the early 2020s, as content management systems offered it as default filler text for new users."
+          ]
