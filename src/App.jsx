@@ -15,8 +15,6 @@ export const Context = createContext()
 
 function App() {
 
-  
-
   const [stepNumber, setStepNumber] = useState(1);
 
   const [userData, setUserData] = useState(
@@ -32,7 +30,7 @@ function App() {
 
     }
   );
-  console.log(userData)
+  
   const signupComponent = () => {
     switch(stepNumber) {
       case 1: return <AccountType />;
