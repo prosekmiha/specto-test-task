@@ -1,4 +1,4 @@
-#Instructions
+# Instructions
 - git clone https://github.com/prosekmiha/specto-test-task.git
 - npm install
 - npm run dev
